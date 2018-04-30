@@ -8,7 +8,7 @@
     * [Accordion Module](beaver-builder/module-overviews/accordion-module.md)
   * getting-started
     * [Install](beaver-builder/getting-started/install.md)
-* beaver-builder-theme
+* BB Theme
   * getting-started
     * [Testing auto TOC generater](beaver-builder-theme/getting-started/hello.md)
     * [sub category](beaver-builder-theme/getting-started/test.md)
@@ -16,7 +16,7 @@
     * [sub category](beaver-builder-theme/developer/test.md)
   * theme-options
     * [sub category](beaver-builder-theme/theme-options/test.md)
-* beaver-themer
+* Beaver Themer
   * field-connections
     * [sub category](beaver-themer/field-connections/test.md)
   * developer
