@@ -1,7 +1,7 @@
 # Table of contents
 
 * [gitbooks](README.md)
-* beaver-builder
+* Beaver Builder
   * developer
     * [sub category](beaver-builder/developer/test.md)
   * module-overviews
