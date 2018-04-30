@@ -17,7 +17,7 @@
   * theme-options
     * [sub category](beaver-builder-theme/theme-options/test.md)
 * Beaver Themer
-  * field-connections
+  * [field-connections](beaver-themer/field-connections/README.md)
     * [sub category](beaver-themer/field-connections/test.md)
   * developer
     * [sub category](beaver-themer/developer/test.md)
